@@ -16,3 +16,5 @@
       α)late-bound
       β)early-bound
 
+
+*link for cv repo: https://github.com/perikarananou/My_CV
