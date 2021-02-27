@@ -17,4 +17,4 @@
       β)early-bound
 
 
-*link for cv repo: https://github.com/perikarananou/My_CV
+* link for cv repo: https://github.com/perikarananou/My_CV
