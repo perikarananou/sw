@@ -69,3 +69,9 @@
 
 4)  Ο Alan Key δε αντίθεση με τα σύγχρονα λογισμικά με αντίστοιχες δυνατότητες επιλέγει να χρησιμοποιεί στο λογισμικό διαδραστικά γραφικά και αντικειμενοστρέφεια.
 
+---
+![](https://github.com/perikarananou/gr/blob/gh-pages/images/Windows_mob160.png)
+
+---
+![](https://github.com/perikarananou/gr/blob/gh-pages/images/android160.png)
+* ## [link for asciinema](https://asciinema.org/a/401411)
